@@ -1,6 +1,12 @@
 # Projeto NotebookLM - Reforma Tributária no Brasil
 ## Projeto de estudo sobre a Reforma Tributária no Brasil, com foco em análise de fontes, uso de IA (NotebookLM) e desenvolvimento de habilidades de engenharia de prompts.
 
+Este projeto foi desenvolvido utilizando o NotebookLM como ferramenta de apoio ao estudo.
+
+🔗 Acesse o notebook: (https://notebooklm.google.com/notebook/69ea361a-ab4c-403a-893b-16d53004361e)
+
+⚠️ Observação: o NotebookLM é uma ferramenta online, portanto o conteúdo não é totalmente exportável, sendo este repositório uma documentação estruturada do processo de estudo.
+
 Este projeto foi desenvolvido como parte de um desafio do bootcamp Accenture - Python para Análise e Automação de Dados, com o objetivo de explorar o uso do NotebookLM como ferramenta de apoio ao aprendizado.
 
 O tema escolhido foi Reforma Tributária no Brasil, considerando o atual cenário de transição do sistema tributário brasileiro e a dificuldade de compreensão das informações disponíveis, geralmente apresentadas em linguagem técnica e complexa.
